@@ -26,4 +26,4 @@ Here I list the most relevant:
    - [GML](https://bitbucket.org/mmontone/gml). Generic Modeling Language. A readable language to describe models. Similar to [HUTN](https://www.eclipse.org/epsilon/doc/hutn/).
    - [Mold](https://bitbucket.org/mmontone/mold). A Domain Modeling Environment. My current attempt at synthesizing my ideas about languages and modeling, in a live environment on top of Smalltalk. *This is very much work in progress and not ready for public consumption*.
 
-See the full list [here](/software)
+See the full list [here](/software). I'm also building a [list of interesting things](/links) I find about software development and its future.
