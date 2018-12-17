@@ -9,7 +9,8 @@ layout: default
 Hi! I'm a software developer from Argentina.
 
 I'm interested in programming languages. I believe in [language oriented programming](https://en.wikipedia.org/wiki/Language-oriented_programming), that is, 
-> creating an implementation language as isomorphic as possible to the user's descriptions, so that the mapping between requirements and implementation is as direct as possible. 
+> creating an implementation language as isomorphic as possible to the user's descriptions, so that the mapping between requirements and implementation is as direct as possible.
+
 So, I develop (DSLs)[https://en.wikipedia.org/wiki/Domain-specific_language] and I'm diving into (Domain Specific Modeling)[https://en.wikipedia.org/wiki/Domain-specific_modeling] too.
 
 ## Open source libraries and projects
