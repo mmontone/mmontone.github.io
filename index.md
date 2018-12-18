@@ -15,7 +15,7 @@ So, I develop [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) and
 
 ## Open source libraries and projects
 
-I've developed several Open Source libraries, most of them in Smalltalk and Common Lisp, my [favourite programming languages](/favourite).
+I've developed several Open Source libraries, most of them in Smalltalk and Common Lisp, my [favourite programming languages](/favourite). It's all available on my [Github](https://github.com/mmontone) and [Bitbucket](https://bitbucket.org/mmontone) accounts.
 
 Here I list the most relevant:
 
