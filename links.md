@@ -4,3 +4,4 @@
 * [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [FutureOfCoding.org](https://futureofcoding.org)
 * [Common-Lisp.net](https://common-lisp.net)
+* [Cuis Smalltalk](http://www.cuis-smalltalk.org)
