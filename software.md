@@ -9,8 +9,7 @@ Most of my Open Source stuff is available on my [Github](https://github.com/mmon
 * [Erudite](https://github.com/mmontone/erudite). A Literate Programming system for Common Lisp. Also, a [Smalltalk equivalent](https://bitbucket.org/mmontone/cuis-smalltalk-erudite).
 * [acme](http://mmontone.github.io/acme) - Application Configuration ManagEr
 * [backpack]() - A Rucksack repository with modifications by me for my research projects
-* [burgled-batteries](https://github.com/mmontone/burgled-batteries) - A bridge between Python and Lisp (FFI bindings, etc.)
-* [burgled-batteries.syntax](https://github.com/mmontone/burgled-batteries.syntax) - Embedded Python syntax for burgled-batteries
+* [burgled-batteries.syntax](https://github.com/mmontone/burgled-batteries.syntax) - Embedded Python syntax for burgled-batteries (a bridge between Python and Lisp)
 * [cl-config]() - Configuration library for Common Lisp
 * [cl-forms]() - Web forms handling library for Common lisp
 * [cl-graylog](https://github.com/mmontone/cl-graylog) - Common Lisp Graylog client library
@@ -26,8 +25,6 @@ Most of my Open Source stuff is available on my [Github](https://github.com/mmon
 * [clim-doc](https://github.com/mmontone/clim-doc) - Common Lisp CLIM related documentation
 * [climacs]() - 勝手に fork
 * [commander.js](https://github.com/mmontone/commander.js) - Experiment to bring CLIM/Emacs like commands interaction to web applications
-* [crane](http://eudoxia.me/crane/) - An ORM for Common Lisp.
-* [Cuis-Smalltalk-Dev]() - Active development of Cuis Smalltalk
 * [descriptions](http://mmontone.github.io/descriptions) - Meta level descriptions library for Common Lisp
 * [docstring-parser](https://github.com/mmontone/docstring-parser) - A Common Lisp docstring parser
 * [duologue]() - High level user interaction library for Common Lisp
