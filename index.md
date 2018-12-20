@@ -22,7 +22,7 @@ Here I list the most relevant:
 * [Common-Lisp.net](http://common-lisp.net) redesign (2018).
 * [Djula](https://github.com/mmontone/djula). Djula is a port of Python's Django template engine to Common Lisp.
 * [Erudite](https://github.com/mmontone/erudite). A Literate Programming system for Common Lisp. Also, a [Smalltalk equivalent](https://bitbucket.org/mmontone/cuis-smalltalk-erudite).
-* Several other libraries for Common Lisp: [a web router](https://github.com/mmontone/easy-routes), [a web forms handler](https://github.com/mmontone/cl-forms), [a library for implementing REST web APIs](https://github.com/mmontone/rest-server), [a generic validation library](https://github.com/mmontone/clavier), and [much more](https://github.com/mmontone). 
+* Several other libraries for Common Lisp: [a web router](https://github.com/mmontone/easy-routes), [a web forms handler](https://github.com/mmontone/cl-forms), [a library for implementing REST web APIs](https://github.com/mmontone/rest-server), [a generic validation library](https://github.com/mmontone/clavier), and [more](https://github.com/mmontone?utf8=%E2%9C%93&tab=repositories&q=&type=&language=common+lisp). 
 * Experimental projects on [DSM](https://en.wikipedia.org/wiki/Domain-specific_modeling):
    - [GML](https://bitbucket.org/mmontone/gml). Generic Modeling Language. A readable language to describe models. Similar to [HUTN](https://www.eclipse.org/epsilon/doc/hutn/).
    - [Mold](https://bitbucket.org/mmontone/mold). A Domain Modeling Environment. My current attempt at synthesizing my ideas about languages and modeling, in a live environment on top of Smalltalk. *This is very much work in progress and not ready for public consumption*.
