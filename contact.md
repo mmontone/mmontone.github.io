@@ -2,6 +2,7 @@
 layout: default
 is_contact: true
 ---
+# Contact
 
 * Email: [marianomontone@gmail.com](mailto:marianomontone@gmail.com)
 
