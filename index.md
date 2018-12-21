@@ -8,7 +8,7 @@ layout: default
 
 Hi! I'm a software developer from Argentina.
 
-I'm interested in programming languages, and in [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) and [language oriented programming](https://en.wikipedia.org/wiki/Language-oriented_programming) in particular. I believe in creating abstractions and languages close to the problem description, so that the mapping between requirements and implementation is as direct as possible. My projects and libraries involve the development of [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) in one way or another, and I'm diving into [Domain Specific Modeling](https://en.wikipedia.org/wiki/Domain-specific_modeling) too.
+I'm interested in programming languages, and in [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) and [language oriented programming](https://en.wikipedia.org/wiki/Language-oriented_programming) in particular. I believe in creating abstractions and languages close to the problem domain, so that the mapping between requirements and implementation is as direct as possible. My projects and libraries involve the development of [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) in one way or another, and I'm diving into [Domain Specific Modeling](https://en.wikipedia.org/wiki/Domain-specific_modeling) too.
 
 ## Open source libraries and projects
 
