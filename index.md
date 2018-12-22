@@ -25,4 +25,4 @@ Here is a short list of the most relevant:
    - [Mold](https://bitbucket.org/mmontone/mold). A Domain Modeling Environment. My current attempt at synthesizing my ideas about languages and modeling, in a live environment on top of Smalltalk. *This is very much work in progress and not ready for public consumption*.
 
 See the full list [here](/software). 
-I'm also building a [list of interesting things](/links) I find about software development and its future.
+I'm also making a [list of interesting things](/links) I find about software development and its future.
