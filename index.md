@@ -14,7 +14,7 @@ I'm interested in software development and programming languages, and specialize
 
 I've developed several Open Source libraries, most of them in Smalltalk and Common Lisp, my [favourite programming languages](/favourite). They are all available on my [Github](https://github.com/mmontone) and [Bitbucket](https://bitbucket.org/mmontone) accounts.
 
-Here I list the most relevant:
+Here is a short list of the most relevant:
 
 * [Common-Lisp.net](http://common-lisp.net) redesign (2018).
 * [Djula](https://github.com/mmontone/djula). Djula is a port of Python's Django template engine to Common Lisp.
