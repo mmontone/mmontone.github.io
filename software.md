@@ -39,6 +39,11 @@ Most of my Open Source stuff is available on my [Github](https://github.com/mmon
 * [template-overlays]() - Display template regions using Emacs overlays.
 * [transactional-object]() - A library that provides transactional semantics to Common Lisp CLOS objects
 
+* Cuis Smalltalk libraries:
+   * [Cuis-Smalltalk-PreferenceBrowser](https://bitbucket.org/mmontone/cuis-smalltalk-preferencebrowser) - A browser for editing Cuis preferences.
+   * [Cuis-Smalltalk-Erudite](https://bitbucket.org/mmontone/cuis-smalltalk-erudite) - A documentation system with support for Literate Programming for Cuis Smalltalk.
+   * [Cuis-Smalltalk-MorphTemplates](https://bitbucket.org/mmontone/cuis-smalltalk-morphtemplates) - A library for building and updating Morphs as Javascript React library does.
+
 * Experimental projects on [DSM](https://en.wikipedia.org/wiki/Domain-specific_modeling):
    - [GML](https://bitbucket.org/mmontone/gml). Generic Modeling Language. A readable language to describe models. Similar to [HUTN](https://www.eclipse.org/epsilon/doc/hutn/).
    - [Mold](https://bitbucket.org/mmontone/mold). A Domain Modeling Environment. My current attempt at synthesizing my ideas about languages and modeling, in a live environment on top of Smalltalk. *This is very much work in progress and not ready for public consumption*.
