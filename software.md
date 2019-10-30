@@ -40,6 +40,11 @@ Most of my Open Source stuff is available on my [Github](https://github.com/mmon
 * [transactional-object]() - A library that provides transactional semantics to Common Lisp CLOS objects
 
 * Cuis Smalltalk libraries:
+   * [IMGUI](https://bitbucket.org/mmontone/mold/src/master/IMGUI.pck.st) - An [Immediate Mode GUI](http://www.johno.se/book/imgui.html) framework for Cuis Smalltalk (WIP).
+   * [Props](https://bitbucket.org/mmontone/mold/src/master/Props.pck.st) - A generic properties editor for Cuis Smalltalk (WIP).
+   * [Dia](https://bitbucket.org/mmontone/mold/src/master/Dia.pck.st) - Diagrams editor for Cuis Smalltalk (WIP).
+   * [Cairo](https://github.com/Cuis-Smalltalk/Cairo) - FFI Cairo bindings for Cuis Smalltalk.
+   * [FFIGen](https://github.com/Cuis-Smalltalk/Cairo/blob/master/FFIGen.pck.st) - Simple FFI generator for Cuis Smalltalk, based on [c2ffi](https://github.com/rpav/c2ffi) specs. 
    * [Cuis-Smalltalk-PreferenceBrowser](https://bitbucket.org/mmontone/cuis-smalltalk-preferencebrowser) - A browser for editing Cuis preferences.
    * [Cuis-Smalltalk-Erudite](https://bitbucket.org/mmontone/cuis-smalltalk-erudite) - A documentation system with support for Literate Programming for Cuis Smalltalk.
    * [Cuis-Smalltalk-MorphTemplates](https://bitbucket.org/mmontone/cuis-smalltalk-morphtemplates) - A library for building and updating Morphs as Javascript React library does.
