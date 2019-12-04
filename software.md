@@ -45,6 +45,7 @@ Most of my Open Source stuff is available on my [Github](https://github.com/mmon
    * [Dia](https://bitbucket.org/mmontone/mold/src/master/Dia.pck.st) - Diagrams editor for Cuis Smalltalk (WIP).
    * [Cairo](https://github.com/Cuis-Smalltalk/Cairo) - FFI Cairo bindings for Cuis Smalltalk.
    * [FFIGen](https://github.com/Cuis-Smalltalk/Cairo/blob/master/FFIGen.pck.st) - Simple FFI generator for Cuis Smalltalk, based on [c2ffi](https://github.com/rpav/c2ffi) specs. 
+   * [BrowserPlus](https://bitbucket.org/mmontone/mold/src/master/BrowserPlus.pck.st) - An extensible Smalltalk Browser via plugins, with better navigation support.
    * [Cuis-Smalltalk-PreferenceBrowser](https://bitbucket.org/mmontone/cuis-smalltalk-preferencebrowser) - A browser for editing Cuis preferences.
    * [Cuis-Smalltalk-Erudite](https://github.com/Cuis-Smalltalk/Erudite) - A documentation system with support for Literate Programming for Cuis Smalltalk.
    * [Cuis-Smalltalk-MorphTemplates](https://bitbucket.org/mmontone/cuis-smalltalk-morphtemplates) - A library for building and updating Morphs as Javascript React library does.
